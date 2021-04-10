@@ -1,0 +1,7 @@
+.listItem {
+  margin: 5px 0 5px 0;
+  display: flex;
+  border-width: 5px;
+  border-style: groove;
+  border-color: #0078d7;
+}
