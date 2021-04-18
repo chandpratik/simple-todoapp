@@ -7,3 +7,17 @@
   color: white;
   text-align: center;
 }
+
+.textField {
+  width: 90vw;
+   max-width: 600px;
+
+}
+
+@media screen and (max-width: 600px) {
+  .textField {
+    
+     max-width: 300px;
+  
+  }
+}
